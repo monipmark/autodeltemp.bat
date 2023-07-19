@@ -1,3 +1,3 @@
 rmdir /s /q %temp%
 
-mb %temp%
+md %temp%
